@@ -43,3 +43,23 @@ savelist.json → Stores expense data
 ## Author
 
 Rittik Kumar
+
+
+
+
+
+
+## Screenshots
+
+### Main Menu
+![Main Menu](https://github.com/rittik-kumar-dev/expense-tracker/blob/58d0adf809915cb175e1c114c7f254373a58281b/home.png)
+
+### Add Expense
+![Add Expense](https://github.com/rittik-kumar-dev/expense-tracker/blob/58d0adf809915cb175e1c114c7f254373a58281b/add_expense.png)
+
+### View Expenses
+![View Expenses](https://github.com/rittik-kumar-dev/expense-tracker/blob/58d0adf809915cb175e1c114c7f254373a58281b/view_expenses.png)
+
+
+
+
